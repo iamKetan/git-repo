@@ -1,0 +1,9 @@
+.textCenter{
+    text-align: center;
+}
+
+.labelStyle{
+    font-size: 12px;
+    background: #eee;
+    border-radius: 3px;
+}
